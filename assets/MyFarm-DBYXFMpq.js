@@ -1,0 +1,1 @@
+import{j as l}from"./index-Ckd7TQ-4.js";const s=()=>l.jsxs("div",{className:"w-full max-w-full mx-auto bg-white rounded-lg shadow-lg p-6 border",children:[l.jsx("h2",{className:"text-left text-xl font-bold mb-4",children:"我的矿场"}),l.jsx("p",{children:"这里是矿场的内容。"})]});export{s as default};
